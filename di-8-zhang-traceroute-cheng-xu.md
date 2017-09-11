@@ -1,2 +1,2 @@
-Traceroute是一个能摄入探索TCP/IP协议的方便可用的工具。
+Traceroute是一个能摄入探索TCP/IP协议的方便可用的工具。他可以让我们看到IP数据从一台主机传到另一台主机所经过的路由。Traceroute程序还可以让我们使用IP源路由选项。
 
