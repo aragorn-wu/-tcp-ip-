@@ -22,5 +22,6 @@
   * 3.3 IP路由选择
 * 第4章 ARP：地址解析协议
   * [4.1 引言](41-yin-yan.md)
-* 第8章 Traceroute程序
+* [第8章 Traceroute程序](di-8-zhang-traceroute-cheng-xu.md)
+  * 8.1 引言
 
