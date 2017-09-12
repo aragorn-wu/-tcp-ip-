@@ -28,4 +28,6 @@
 * [第15章 TFTP：简单文件传送协议](di-15-zhang-tftp-ff1a-jian-dan-wen-jian-chuan-song-xie-yi.md)
   * [15.1 引言](di-15-zhang-tftp-ff1a-jian-dan-wen-jian-chuan-song-xie-yi/151-yin-yan.md)
   * [15.5 小结](di-15-zhang-tftp-ff1a-jian-dan-wen-jian-chuan-song-xie-yi/155-xiao-jie.md)
+* [第27章 FTP：文件传送协议](di-17-zhang-ftp-ff1a-wen-jian-chuan-song-xie-yi.md)
+  * [27.4 小结](di-17-zhang-ftp-ff1a-wen-jian-chuan-song-xie-yi/274-xiao-jie.md)
 
